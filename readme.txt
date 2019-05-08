@@ -1,2 +1,2 @@
-iGit is a version control system.
+iGit is a distrubted version control system.
 Git is free software.
